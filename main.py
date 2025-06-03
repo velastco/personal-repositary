@@ -10,3 +10,4 @@ quotes = [
 
 print("Quote of the day:")
 print(random.choice(quotes))
+print("Goodbye sir")
